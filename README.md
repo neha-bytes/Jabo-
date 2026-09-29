@@ -40,7 +40,7 @@ This project was fully designed, developed, and implemented independently by the
 - Display of available buses with schedule, fare, and seat layout
 - Interactive seat selection with real-time availability
 - Booking confirmation and booking summary
-- Fake payment simulaiton 
+- Fake payment simulation 
 - Automatic email confirmation after successful payment
 - Booking history for past and upcoming trips
 - Real-time shuttle tracking
@@ -88,15 +88,3 @@ npm run server
 npm start
 ```
 
-## Future Enhancements
-
-- Mobile application version
-- Advanced analytics for administrators
-- Multiple payment gateway integration
-- Push notification support
-- Multi-language support
-
-## Author
-
-Md. Imam Hasan  
-CSE, BRAC University
